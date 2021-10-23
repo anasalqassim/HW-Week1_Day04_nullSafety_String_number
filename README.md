@@ -1,7 +1,7 @@
 # HW_Week1_Day4_StringsAndNumbers 😃
 ---
 The HomeWork has three components:
-- Null safety.
+- Nuljjl safety.
 - Strings.
 - Numbers.
 
